@@ -15,6 +15,9 @@ python-dateutil = "*"
 tensorflow = "*"
 tensorflow-gpu = "*"
 imblearn = "*"
+pydot = "*"
+pydotplus = "*"
+graphviz = "*"
 
 [dev-packages]
 
