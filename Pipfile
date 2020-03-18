@@ -18,6 +18,7 @@ imblearn = "*"
 pydot = "*"
 pydotplus = "*"
 graphviz = "*"
+seaborn = "*"
 
 [dev-packages]
 
